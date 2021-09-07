@@ -1,5 +1,5 @@
 <details>
-<summary>UI</summary>
+<summary>Glimpse</summary>
     
 <br/>
     
@@ -14,9 +14,11 @@
 ### Design Files
 
 <details>
-<summary>Click to view</summary>
+<summary>Responsive UI</summary>
+ <br/>
 
 - [Extra Small (Size < 576px) and Small (Size >= 576px)](https://assets.ccbp.in/frontend/content/react-js/destination-search-sm-output-v2.png)
+<br/>
 - [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://assets.ccbp.in/frontend/content/react-js/destination-search-lg-output-v2.png)
 
 </details>
