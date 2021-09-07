@@ -1,0 +1,26 @@
+/* Write your CSS here */
+
+.destination-container {
+  width: 80%;
+  margin-bottom: 48px;
+}
+
+@media screen and (min-width: 768px) {
+  .destination-container {
+    width: 22%;
+    padding-left: 0px;
+    margin-right: 28px;
+  }
+}
+
+.destination-image {
+  width: 100%;
+}
+
+.destination-place {
+  margin: 0px;
+  margin-top: 16px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #252627;
+}
